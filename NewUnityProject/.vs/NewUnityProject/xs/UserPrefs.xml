@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DBF3B2E1-0D90-2909-F21E-611088EAA85D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/tile.cs">
+    <Files>
+      <File FileName="Assets/scripts/tile.cs" Line="21" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewUnityProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="tile.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1c8bec1-71a1-4efd-9063-4ff27fbcb242" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
